@@ -3,5 +3,5 @@
 2. https://www.tutorialspoint.com/asp.net_core/asp.net_core_log_in_and_log_out.htm
 =========================================================================================
 Trang website thời trang
-Giao diện: http://runecom22.runtime.vn/trang-chu.html
-Quản trị Admin: http://clothes_sale.runtime.vn/admin#/pagesetting
+_Giao diện_: http://runecom22.runtime.vn/trang-chu.html
+_Quản trị Admin_: http://clothes_sale.runtime.vn/admin#/pagesetting
