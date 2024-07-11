@@ -5,3 +5,8 @@
 Trang website thời trang
 _Giao diện_: http://runecom22.runtime.vn/trang-chu.html
 _Quản trị Admin_: http://clothes_sale.runtime.vn/admin#/pagesetting
+
+
+
+1. https://www.studocu.com/vn/document/truong-dai-hoc-thuong-mai/kinh-doanh/do-an-tot-nghiep-phan-tich-thiet-ke-he-thong-nghien-cuu-website-ban-hang-truc-tuyen-dien-thoai-di-dong-671473/21459534
+2. https://luanvan.org/do-an-thiet-ke-va-lap-trinh-website-4096/
